@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>swissprot</BlastOutput_db>
+  <BlastOutput_query-ID>Query_541037</BlastOutput_query-ID>
+  <BlastOutput_query-def>NP_000516.3 KCNJ11 [organism=Homo sapiens] [GeneID=3767] [isoform=1]</BlastOutput_query-def>
+  <BlastOutput_query-len>390</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_541037</Iteration_query-ID>
+  <Iteration_query-def>NP_000516.3 KCNJ11 [organism=Homo sapiens] [GeneID=3767] [isoform=1]</Iteration_query-def>
+  <Iteration_query-len>390</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>sp|Q14654.3|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 11; AltName: Full=IKATP; AltName: Full=Inward rectifier K(+) channel Kir6.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 11 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q14654</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>806.594</Hsp_bit-score>
+      <Hsp_score>2082</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>390</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>390</Hsp_identity>
+      <Hsp_positive>390</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_qseq>
+      <Hsp_hseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_hseq>
+      <Hsp_midline>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>sp|O02822.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 11; AltName: Full=Inward rectifier K(+) channel Kir6.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 11 [Oryctolagus cuniculus]</Hit_def>
+  <Hit_accession>O02822</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>779.63</Hsp_bit-score>
+      <Hsp_score>2012</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>390</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>382</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_qseq>
+      <Hsp_hseq>MLSRKGIIPEEYVLTRLAEDPAEPRYRARERRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWTHTLLIFTMSFLCSWLLFAMVWWLIAFAHGDLAPGEGAAVPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRQGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIHHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDRSLLDALTLTSARGPLRKRSVPVAKAKPKFSISPDSLS</Hsp_hseq>
+      <Hsp_midline>MLSRKGIIPEEYVLTRLAEDPA+PRYRAR+RRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKW HTLLIFTMSFLCSWLLFAM WWLIAFAHGDLAP EG A PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALR GRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLII+HVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDED SLL+ALTL SARGPLRKRSVP+AKAKPKFSISPDSLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>sp|P70673.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 11; AltName: Full=BIR; AltName: Full=Inward rectifier K(+) channel Kir6.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 11 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P70673</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>756.903</Hsp_bit-score>
+      <Hsp_score>1953</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>390</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_qseq>
+      <Hsp_hseq>MLSRKGIIPEEYVLTRLAEDPTEPRYRTRERRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMVWWLIAFAHGDLAPGEGTNVPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVITLRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDSNSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDRSLLDALTLASSRGPLRKRSVAVAKAKPKFSISPDSLS</Hsp_hseq>
+      <Hsp_midline>MLSRKGIIPEEYVLTRLAEDP +PRYR R+RRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAM WWLIAFAHGDLAP EGT  PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVI LRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVID+NSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDED SLL+ALTLAS+RGPLRKRSV +AKAKPKFSISPDSLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>sp|Q61743.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 11; AltName: Full=Inward rectifier K(+) channel Kir6.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 11 [Mus musculus]</Hit_def>
+  <Hit_accession>Q61743</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>755.362</Hsp_bit-score>
+      <Hsp_score>1949</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>390</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_qseq>
+      <Hsp_hseq>MLSRKGIIPEEYVLTRLAEDPAEPRYRTRERRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMVWWLIAFAHGDLAPGEGTNVPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVITLRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNGIFLVAPLIIYHVIDSNSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTIKVPTPLCTARQLDEDRSLLDALTLASSRGPLRKRSVAVAKAKPKFSISPDSLS</Hsp_hseq>
+      <Hsp_midline>MLSRKGIIPEEYVLTRLAEDPA+PRYR R+RRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAM WWLIAFAHGDLAP EGT  PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVI LRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGN IFLVAPLIIYHVID+NSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNT+KVPTPLCTARQLDED SLL+ALTLAS+RGPLRKRSV +AKAKPKFSISPDSLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>sp|Q9JHJ9.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 11; AltName: Full=IKATP; AltName: Full=Inward rectifier K(+) channel Kir6.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 11 [Cavia porcellus]</Hit_def>
+  <Hit_accession>Q9JHJ9</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>754.592</Hsp_bit-score>
+      <Hsp_score>1947</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>390</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLLEALTLASARGPLRKRSVPMAKAKPKFSISPDSLS</Hsp_qseq>
+      <Hsp_hseq>MLSRKGIIPEEYVLTRLAEDPTEPRYRARERRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMVWWLIAFAHGDLAPGEGTTVPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTSQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLGPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGHRFVPIVAEEDGRYSVDYSKFGNTIKVPTPLCTAHQLDEDHSLLDALTLASTRGPLRKRSVPVAKAKPRFSISPDSLS</Hsp_hseq>
+      <Hsp_midline>MLSRKGIIPEEYVLTRLAEDP +PRYRAR+RRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAM WWLIAFAHGDLAP EGT  PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKT+QAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDL PSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWG RFVPIVAEEDGRYSVDYSKFGNT+KVPTPLCTA QLDEDHSLL+ALTLAS RGPLRKRSVP+AKAKP+FSISPDSLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>sp|P97794.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 8; AltName: Full=Inward rectifier K(+) channel Kir6.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 8; AltName: Full=uKATP-1 [Mus musculus]</Hit_def>
+  <Hit_accession>P97794</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.755</Hsp_bit-score>
+      <Hsp_score>1436</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>365</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>366</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLA-EDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAP--SEGTAEP-------CVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>MLARKSIIPEEYVLARIAAENLRKPRIRDRLPKARFIAKSGACNLAHKNIREQGRFLQDIFTTLVDLKWRHTLVIFTMSFLCSWLLFAIMWWLVAFAHGDIYAYMEKGTMEKSGLESAVCVTNVRSFTSAFLFSIEVQVTIGFGGRMMTEECPLAITVLILQNIVGLIINAVMLGCIFMKTAQAHRRAETLIFSRHAVIAVRNGKLCFMFRVGDLRKSMIISASVRIQVVKKTTTPEGEVVPIHQQDIPVDNPIESNNIFLVAPLIICHVIDKRSPLYDISATDL-ANQDLEVIVILEGVVETTGITTQARTSYIAEEIQWGHRFVSIVTEEEGVYSVDYSKFGNTVRVAAPRCSARELDEKPSIL</Hsp_hseq>
+      <Hsp_midline>ML+RK IIPEEYVL R+A E+  KPR R R  +ARF++K G CN+AHKNIREQGRFLQD+FTTLVDLKW HTL+IFTMSFLCSWLLFA+ WWL+AFAHGD+     +GT E        CVT++ SF+SAFLFSIEVQVTIGFGGRM+TEECPLAI +LI+QNIVGL+INA+MLGCIFMKTAQAHRRAETLIFS+HAVIA+R+G+LCFM RVGDLRKSMIISA++ +QVV+KTT+PEGEVVP+HQ DIP++N +  N+IFLVAPLII HVID  SPLYD++ +DL  +QDLE+IVILEGVVETTGITTQARTSY+A+EI WG RFV IV EE+G YSVDYSKFGNTV+V  P C+AR+LDE  S+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>sp|Q63664.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 8; AltName: Full=Inward rectifier K(+) channel Kir6.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 8; AltName: Full=uKATP-1 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>Q63664</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.37</Hsp_bit-score>
+      <Hsp_score>1435</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>384</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>273</Hsp_identity>
+      <Hsp_positive>324</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>385</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLA-EDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAP--SEGTAEP-------CVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHS-LLEALTLA--SARGPLRKRS</Hsp_qseq>
+      <Hsp_hseq>MLARKSIIPEEYVLARIAAENLRKPRIRDRLPKARFIAKSGACNLAHKNIREQGRFLQDIFTTLVDLKWRHTLVIFTMSFLCSWLLFAIMWWLVAFAHGDIYAYMEKGITEKSGLESAVCVTNVRSFTSAFLFSIEVQVTIGFGGRMMTEECPLAITVLILQNIVGLIINAVMLGCIFMKTAQAHRRAETLIFSRHAVIAVRNGKLCFMFRVGDLRKSMIISASVRIQVVKKTTTPEGEVVPIHQQDIPVDNPIESNNIFLVAPLIICHVIDKRSPLYDISATDL-VNQDLEVIVILEGVVETTGITTQARTSYIAEEIQWGHRFVSIVTEEEGVYSVDYSKFGNTVRVAAPRCSARELDEKPSILIQTLQKSELSHQNSLRKRN</Hsp_hseq>
+      <Hsp_midline>ML+RK IIPEEYVL R+A E+  KPR R R  +ARF++K G CN+AHKNIREQGRFLQD+FTTLVDLKW HTL+IFTMSFLCSWLLFA+ WWL+AFAHGD+     +G  E        CVT++ SF+SAFLFSIEVQVTIGFGGRM+TEECPLAI +LI+QNIVGL+INA+MLGCIFMKTAQAHRRAETLIFS+HAVIA+R+G+LCFM RVGDLRKSMIISA++ +QVV+KTT+PEGEVVP+HQ DIP++N +  N+IFLVAPLII HVID  SPLYD++ +DL  +QDLE+IVILEGVVETTGITTQARTSY+A+EI WG RFV IV EE+G YSVDYSKFGNTV+V  P C+AR+LDE  S L++ L  +  S +  LRKR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>sp|Q15842.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 8; AltName: Full=Inward rectifier K(+) channel Kir6.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 8; AltName: Full=uKATP-1 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q15842</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.37</Hsp_bit-score>
+      <Hsp_score>1435</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>365</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>366</Hsp_align-len>
+      <Hsp_qseq>MLSRKGIIPEEYVLTRLA-EDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGD---------LAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>MLARKSIIPEEYVLARIAAENLRKPRIRDRLPKARFIAKSGACNLAHKNIREQGRFLQDIFTTLVDLKWRHTLVIFTMSFLCSWLLFAIMWWLVAFAHGDIYAYMEKSGMEKSGLESTVCVTNVRSFTSAFLFSIEVQVTIGFGGRMMTEECPLAITVLILQNIVGLIINAVMLGCIFMKTAQAHRRAETLIFSRHAVIAVRNGKLCFMFRVGDLRKSMIISASVRIQVVKKTTTPEGEVVPIHQLDIPVDNPIESNNIFLVAPLIICHVIDKRSPLYDISATDL-ANQDLEVIVILEGVVETTGITTQARTSYIAEEIQWGHRFVSIVTEEEGVYSVDYSKFGNTVKVAAPRCSARELDEKPSIL</Hsp_hseq>
+      <Hsp_midline>ML+RK IIPEEYVL R+A E+  KPR R R  +ARF++K G CN+AHKNIREQGRFLQD+FTTLVDLKW HTL+IFTMSFLCSWLLFA+ WWL+AFAHGD         +  S   +  CVT++ SF+SAFLFSIEVQVTIGFGGRM+TEECPLAI +LI+QNIVGL+INA+MLGCIFMKTAQAHRRAETLIFS+HAVIA+R+G+LCFM RVGDLRKSMIISA++ +QVV+KTT+PEGEVVP+HQ+DIP++N +  N+IFLVAPLII HVID  SPLYD++ +DL  +QDLE+IVILEGVVETTGITTQARTSY+A+EI WG RFV IV EE+G YSVDYSKFGNTVKV  P C+AR+LDE  S+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>sp|P48542.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 2; Short=GIRK-2; AltName: Full=Inward rectifier K(+) channel Kir3.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 6 [Mus musculus]</Hit_def>
+  <Hit_accession>P48542</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>358.607</Hsp_bit-score>
+      <Hsp_score>919</Hsp_score>
+      <Hsp_evalue>1.82133e-120</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RDRTKRKIQRYVRKDGKCNVHHGNVRETYRYLTDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLIAYIRGDMDHIEDPSWTPCVTNLNGFVSAFLFSIETETTIGYGYRVITDKCPEGIILLLIQSVLGSIVNAFMVGCMFVKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQSDINVGYYTGDDRLFLVSPLIISHEINQQSPFWEISKAQL-PKEELEIVVILEGIVEATGMTCQARSSYITSEILWGYRFTPVLTMEDGFYEVDYNSFHETYETSTPSLSAKELAE</Hsp_hseq>
+      <Hsp_midline>R R +++  R+V K G CNV H N+RE  R+L D+FTTLVDLKW   LLIF M +  +WL F M WWLIA+  GD+   E  +  PCVT+++ F SAFLFSIE + TIG+G R++T++CP  I++L++Q+++G ++NA M+GC+F+K +Q  +RAETL+FS HAVI++R G+LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++LEI+VILEG+VE TG+T QAR+SY+  EILWG RF P++  EDG Y VDY+ F  T +  TP  +A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>sp|Q63511.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 3; Short=GIRK-3; AltName: Full=Inward rectifier K(+) channel Kir3.3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 9 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>Q63511</Hit_accession>
+  <Hit_len>393</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.451</Hsp_bit-score>
+      <Hsp_score>916</Hsp_score>
+      <Hsp_evalue>2.05799e-120</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>345</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>334</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>329</Hsp_align-len>
+      <Hsp_qseq>AEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCT</Hsp_qseq>
+      <Hsp_hseq>SEEP--PRRRGRQR---YVEKDGRCNVQQGNVRETYRYLTDLFTTLVDLQWRLSLLFFVLAYALTWLFFGAIWWLIAYGRGDLEHLEDTAWTPCVNNLNGFVAAFLFSIETETTIGYGHRVITDQCPEGIVLLLLQAILGSMVNAFMVGCMFVKISQPNKRAATLVFSSHAVVSLRDGRLCLMFRVGDLRSSHIVEASIRAKLIRSRQTLEGEFIPLHQTDLSVGFDTGDDRLFLVSPLVISHEIDAASPFWEASRRAL-ERDDFEIVVILEGMVEATGMTCQARSSYLVDEVLWGHRFTSVLTLEDGFYEVDYASFHETFEVPTPSCS</Hsp_hseq>
+      <Hsp_midline>+E+P  PR R RQR   +V K G CNV   N+RE  R+L D+FTTLVDL+W  +LL F +++  +WL F   WWLIA+  GDL   E TA  PCV +++ F +AFLFSIE + TIG+G R++T++CP  I++L++Q I+G M+NA M+GC+F+K +Q ++RA TL+FS HAV++LR GRLC M RVGDLR S I+ A+I  +++R   + EGE +PLHQ D+ +    G + +FLV+PL+I H IDA SP ++ +   L    D EI+VILEG+VE TG+T QAR+SYL DE+LWG RF  ++  EDG Y VDY+ F  T +VPTP C+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>sp|Q92806.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 3; Short=GIRK-3; AltName: Full=Inward rectifier K(+) channel Kir3.3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 9 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q92806</Hit_accession>
+  <Hit_len>393</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.066</Hsp_bit-score>
+      <Hsp_score>915</Hsp_score>
+      <Hsp_evalue>2.64312e-120</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>345</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>334</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>EDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCT</Hsp_qseq>
+      <Hsp_hseq>EEP--PRRRGRQR---YVEKDGRCNVQQGNVRETYRYLTDLFTTLVDLQWRLSLLFFVLAYALTWLFFGAIWWLIAYGRGDLEHLEDTAWTPCVNNLNGFVAAFLFSIETETTIGYGHRVITDQCPEGIVLLLLQAILGSMVNAFMVGCMFVKISQPNKRAATLVFSSHAVVSLRDGRLCLMFRVGDLRSSHIVEASIRAKLIRSRQTLEGEFIPLHQTDLSVGFDTGDDRLFLVSPLVISHEIDAASPFWEASRRAL-ERDDFEIVVILEGMVEATGMTCQARSSYLVDEVLWGHRFTSVLTLEDGFYEVDYASFHETFEVPTPSCS</Hsp_hseq>
+      <Hsp_midline>E+P  PR R RQR   +V K G CNV   N+RE  R+L D+FTTLVDL+W  +LL F +++  +WL F   WWLIA+  GDL   E TA  PCV +++ F +AFLFSIE + TIG+G R++T++CP  I++L++Q I+G M+NA M+GC+F+K +Q ++RA TL+FS HAV++LR GRLC M RVGDLR S I+ A+I  +++R   + EGE +PLHQ D+ +    G + +FLV+PL+I H IDA SP ++ +   L    D EI+VILEG+VE TG+T QAR+SYL DE+LWG RF  ++  EDG Y VDY+ F  T +VPTP C+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>sp|P48543.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 3; Short=GIRK-3; AltName: Full=Inward rectifier K(+) channel Kir3.3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 9 [Mus musculus]</Hit_def>
+  <Hit_accession>P48543</Hit_accession>
+  <Hit_len>393</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.066</Hsp_bit-score>
+      <Hsp_score>915</Hsp_score>
+      <Hsp_evalue>2.79088e-120</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>345</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>334</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>329</Hsp_align-len>
+      <Hsp_qseq>AEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCT</Hsp_qseq>
+      <Hsp_hseq>SEEP--PRRRGRQR---YVEKDGRCNVQQGNVRETYRYLTDLFTTLVDLQWRLSLLFFVLAYALTWLFFGAIWWLIAYGRGDLEHLEDTAWTPCVNNLNGFVAAFLFSIETETTIGYGHRVITDQCPEGIVLLLLQAILGSMVNAFMVGCMFVKISQPNKRAATLVFSSHAVVSLRDGRLCLMFRVGDLRSSHIVEASIRAKLIRSRQTLEGEFIPLHQTDLSVGFDTGDDRLFLVSPLVISHEIDAASPFWEASRRAL-ERDDFEIVVILEGMVEATGMTCQARSSYLVDEVLWGHRFTSVLTLEDGFYEVDYASFHETFEVPTPSCS</Hsp_hseq>
+      <Hsp_midline>+E+P  PR R RQR   +V K G CNV   N+RE  R+L D+FTTLVDL+W  +LL F +++  +WL F   WWLIA+  GDL   E TA  PCV +++ F +AFLFSIE + TIG+G R++T++CP  I++L++Q I+G M+NA M+GC+F+K +Q ++RA TL+FS HAV++LR GRLC M RVGDLR S I+ A+I  +++R   + EGE +PLHQ D+ +    G + +FLV+PL+I H IDA SP ++ +   L    D EI+VILEG+VE TG+T QAR+SYL DE+LWG RF  ++  EDG Y VDY+ F  T +VPTP C+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>sp|P48051.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 2; Short=GIRK-2; AltName: Full=BIR1; AltName: Full=Inward rectifier K(+) channel Kir3.2; AltName: Full=KATP-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 6 [Homo sapiens]</Hit_def>
+  <Hit_accession>P48051</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.836</Hsp_bit-score>
+      <Hsp_score>917</Hsp_score>
+      <Hsp_evalue>3.35014e-120</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RDRTKRKIQRYVRKDGKCNVHHGNVRETYRYLTDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLIAYIRGDMDHIEDPSWTPCVTNLNGFVSAFLFSIETETTIGYGYRVITDKCPEGIILLLIQSVLGSIVNAFMVGCMFVKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQSPFWEISKAQL-PKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAE</Hsp_hseq>
+      <Hsp_midline>R R +++  R+V K G CNV H N+RE  R+L D+FTTLVDLKW   LLIF M +  +WL F M WWLIA+  GD+   E  +  PCVT+++ F SAFLFSIE + TIG+G R++T++CP  I++L++Q+++G ++NA M+GC+F+K +Q  +RAETL+FS HAVI++R G+LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++LEI+VILEG+VE TG+T QAR+SY+  EILWG RF P++  EDG Y VDY+ F  T +  TP  +A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>sp|P48550.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 2; Short=GIRK-2; AltName: Full=BIR1; AltName: Full=Inward rectifier K(+) channel Kir3.2; AltName: Full=KATP-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 6 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P48550</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>356.295</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>1.39032e-119</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RDRTKRKIQRYVRKDGKCNVHHGNVRETYRYLTDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLIAYIRGDMDHIEDPSWTPCVTNLNGFVSAFLFSIETETTIGYGYRVITDKCPEGIILLLIQSVLGSIVNAFMVGCMFVKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQSPFWEISKAQL-PKEELEIVVILEGMVEATGMTCQARSSYVTSEILWGYRFTPVLTLEDGFYEVDYNSFHETHETSTPSLSAKELAE</Hsp_hseq>
+      <Hsp_midline>R R +++  R+V K G CNV H N+RE  R+L D+FTTLVDLKW   LLIF M +  +WL F M WWLIA+  GD+   E  +  PCVT+++ F SAFLFSIE + TIG+G R++T++CP  I++L++Q+++G ++NA M+GC+F+K +Q  +RAETL+FS HAVI++R G+LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++LEI+VILEG+VE TG+T QAR+SY+  EILWG RF P++  EDG Y VDY+ F  T +  TP  +A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>sp|P49658.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 2; Short=GIRK-2; AltName: Full=Inward rectifier K(+) channel Kir3.2; AltName: Full=KATP-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 6 [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>P49658</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>356.295</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>1.65438e-119</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RDRTKRKIQRYVRKDGKCNVHHGNVRETYRYLTDILTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLIAYIRGDMDHVEDPSWTPCVTNLNGFVSAFLFSIETETTIGYGYRVITDKCPEGIILLLIQSVLGSIVNAFMVGCMFVKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQSPFWEISKAQL-PKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAE</Hsp_hseq>
+      <Hsp_midline>R R +++  R+V K G CNV H N+RE  R+L D+ TTLVDLKW   LLIF M +  +WL F M WWLIA+  GD+   E  +  PCVT+++ F SAFLFSIE + TIG+G R++T++CP  I++L++Q+++G ++NA M+GC+F+K +Q  +RAETL+FS HAVI++R G+LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++LEI+VILEG+VE TG+T QAR+SY+  EILWG RF P++  EDG Y VDY+ F  T +  TP  +A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>sp|P52187.2|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 12; AltName: Full=Inward rectifier K(+) channel Kir2.2; Short=IRK-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 12 [Mus musculus]</Hit_def>
+  <Hit_accession>P52187</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>356.295</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>1.7452e-119</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE-PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RRCRNRFVKKNGQCNIEFANMDEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGIIFWVIAVAHGDLEPAEGRGRTPCVLQVHGFMAAFLFSIETQTTIGYGLRCVTEECPVAVFMVVAQSIVGCIIDSFMIGAIMAKMARPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CN+   N+ E+  R+L D+FTT VD++W + LLIF+++FL SWLLF + +W+IA AHGDL P+EG    PCV  +H F +AFLFSIE Q TIG+G R VTEECP+A+ +++ Q+IVG +I++ M+G I  K A+  +RA+TL+FS +AV+ALR G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID  SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA+EILWG RF P++ EE  +Y +DYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>sp|Q14500.2|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 12; AltName: Full=Inward rectifier K(+) channel Kir2.2; Short=IRK-2; AltName: Full=Inward rectifier K(+) channel Kir2.2v; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 12 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q14500</Hit_accession>
+  <Hit_len>433</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.525</Hsp_bit-score>
+      <Hsp_score>911</Hsp_score>
+      <Hsp_evalue>3.26722e-119</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE-PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RRCRNRFVKKNGQCNIEFANMDEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGIIFWVIAVAHGDLEPAEGRGRTPCVMQVHGFMAAFLFSIETQTTIGYGLRCVTEECPVAVFMVVAQSIVGCIIDSFMIGAIMAKMARPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CN+   N+ E+  R+L D+FTT VD++W + LLIF+++FL SWLLF + +W+IA AHGDL P+EG    PCV  +H F +AFLFSIE Q TIG+G R VTEECP+A+ +++ Q+IVG +I++ M+G I  K A+  +RA+TL+FS +AV+ALR G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID  SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA+EILWG RF P++ EE  +Y +DYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>sp|Q5NVJ6.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 2; Short=GIRK-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 6 [Pongo abelii]</Hit_def>
+  <Hit_accession>Q5NVJ6</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>354.755</Hsp_bit-score>
+      <Hsp_score>909</Hsp_score>
+      <Hsp_evalue>6.5833e-119</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RDRTKRKIQRYVRKDGKCNVHHGNVRETYRYLTDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLIAYIRGDMDHIEDPSWTPCVTNLNGFVSAFLFSIETETTIGYGYRVITDKCPEGIILLLIQSVLGSIVNAFMVGCMFVKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLSLVSPLIISHEINQQSPFWEISKAQL-PKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAE</Hsp_hseq>
+      <Hsp_midline>R R +++  R+V K G CNV H N+RE  R+L D+FTTLVDLKW   LLIF M +  +WL F M WWLIA+  GD+   E  +  PCVT+++ F SAFLFSIE + TIG+G R++T++CP  I++L++Q+++G ++NA M+GC+F+K +Q  +RAETL+FS HAVI++R G+LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + + LV+PLII H I+  SP ++++ + L   ++LEI+VILEG+VE TG+T QAR+SY+  EILWG RF P++  EDG Y VDY+ F  T +  TP  +A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>sp|P52188.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 12; AltName: Full=Inward rectifier K(+) channel Kir2.2; Short=IRK-2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 12 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P52188</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>354.369</Hsp_bit-score>
+      <Hsp_score>908</Hsp_score>
+      <Hsp_evalue>1.0715e-118</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE-PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RRCRNRFVKKNGQCNIEFANMDEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGIIFWVIAVAHGDLEPAEGRGRTPCVLQVHGFMAAFLFSIETQTTIGYGLRCVTEECPVAVFMVVAQSIVGCIIDSFMIGAIMAKMGRPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CN+   N+ E+  R+L D+FTT VD++W + LLIF+++FL SWLLF + +W+IA AHGDL P+EG    PCV  +H F +AFLFSIE Q TIG+G R VTEECP+A+ +++ Q+IVG +I++ M+G I  K  +  +RA+TL+FS +AV+ALR G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID  SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA+EILWG RF P++ EE  +Y +DYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>sp|Q4TZY1.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 12; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 12 [Bos taurus]</Hit_def>
+  <Hit_accession>Q4TZY1</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.443</Hsp_bit-score>
+      <Hsp_score>903</Hsp_score>
+      <Hsp_evalue>4.6456e-118</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE-PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RRCRNRFVKKNGQCNIEFANMDEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGVIFWVIAVAHGDLEPAEAHGRTPCVLQVHGFMAAFLFSIETQTTIGYGLRCVTEECPVAVFMVVAQSIVGCIIDSFMIGAIMAKMARPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CN+   N+ E+  R+L D+FTT VD++W + LLIF+++FL SWLLF + +W+IA AHGDL P+E     PCV  +H F +AFLFSIE Q TIG+G R VTEECP+A+ +++ Q+IVG +I++ M+G I  K A+  +RA+TL+FS +AV+ALR G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID  SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA+EILWG RF P++ EE  +Y +DYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>sp|B7U540.3|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 18; AltName: Full=Inward rectifier K(+) channel Kir2.6; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 18 [Homo sapiens]</Hit_def>
+  <Hit_accession>B7U540</Hit_accession>
+  <Hit_len>433</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.829</Hsp_bit-score>
+      <Hsp_score>904</Hsp_score>
+      <Hsp_evalue>4.6789e-118</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>331</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE-PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RRCRNRFVKKNGQCNIAFANMDEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGVIFWVIAVAHGDLEPAEGHGRTPCVMQVHGFMAAFLFSIETQTTIGYGLRCVTEECLVAVFMVVAQSIVGCIIDSFMIGAIMAKMARPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CN+A  N+ E+  R+L D+FTT VD++W + LLIF+++FL SWLLF + +W+IA AHGDL P+EG    PCV  +H F +AFLFSIE Q TIG+G R VTEEC +A+ +++ Q+IVG +I++ M+G I  K A+  +RA+TL+FS +AV+ALR G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID  SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA+EILWG RF P++ EE  +Y +DYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>sp|P63252.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Cardiac inward rectifier potassium channel; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; Short=hIRK1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Homo sapiens] &gt;sp|P63253.1| RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Cardiac inward rectifier potassium channel; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>P63252</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>350.132</Hsp_bit-score>
+      <Hsp_score>897</Hsp_score>
+      <Hsp_evalue>4.6484e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDL-APSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASKEGKA--CVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL A  EG A  CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>sp|P52186.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Gallus gallus]</Hit_def>
+  <Hit_accession>P52186</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.747</Hsp_bit-score>
+      <Hsp_score>896</Hsp_score>
+      <Hsp_evalue>5.90329e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>238</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLTFILSWLFFGCVFWLIALLHGDLENQENN-KPCVSQVSSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVVAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDEIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDM-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKNYYKVDYSRFHKTYEVPNTPICSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL   E   +PCV+ + SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AV+A+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL ++DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TP+C+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>sp|P35561.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Mus musculus]</Hit_def>
+  <Hit_accession>P35561</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.747</Hsp_bit-score>
+      <Hsp_score>896</Hsp_score>
+      <Hsp_evalue>6.79421e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDTSK-VSKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>sp|O18839.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Sus scrofa]</Hit_def>
+  <Hit_accession>O18839</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.362</Hsp_bit-score>
+      <Hsp_score>895</Hsp_score>
+      <Hsp_evalue>8.63399e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASK-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>sp|P52185.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Cardiac inward rectifier potassium channel; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Cavia porcellus]</Hit_def>
+  <Hit_accession>P52185</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.362</Hsp_bit-score>
+      <Hsp_score>895</Hsp_score>
+      <Hsp_evalue>8.63399e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASK-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>sp|Q9MYY9.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Cardiac inward rectifier potassium channel; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Canis lupus familiaris]</Hit_def>
+  <Hit_accession>Q9MYY9</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.362</Hsp_bit-score>
+      <Hsp_score>895</Hsp_score>
+      <Hsp_evalue>8.72829e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASK-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPVAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>sp|O19182.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=BIK; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Bos taurus]</Hit_def>
+  <Hit_accession>O19182</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.362</Hsp_bit-score>
+      <Hsp_score>895</Hsp_score>
+      <Hsp_evalue>9.72982e-117</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASK-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPVAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>sp|P49656.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Oryctolagus cuniculus]</Hit_def>
+  <Hit_accession>P49656</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.591</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>1.51887e-116</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASR-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPVAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDM-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHYYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S   ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>sp|Q64273.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.1; Short=IRK-1; Short=RBL-IRK1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 2 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>Q64273</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.591</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>1.67485e-116</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>AKPRYRARQR-RARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>GKSKVHTRQQCRSRFVKKDGHCNVQFINVGEKGQRYLADIFTTCVDIRWRWMLVIFCLAFVLSWLFFGCVFWLIALLHGDLDASK-ESKACVSEVNSFTAAFLFSIETQTTIGYGFRCVTDECPIAVFMVVFQSIVGCIIDAFIIGAVMAKMAKPKKRNETLVFSHNAVIAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLLKSRITSEGEYIPLDQIDINVGFDSGIDRIFLVSPITIVHEIDEDSPLYDLSKQDI-DNADFEIVVILEGMVEATAMTTQCRSSYLANEILWGHRYEPVLFEEKHCYKVDYSRFHKTYEVPNTPLCSARDLAEKKYIL</Hsp_hseq>
+      <Hsp_midline> K +   RQ+ R+RFV K G+CNV   N+ E+G R+L D+FTT VD++W   L+IF ++F+ SWL F   +WLIA  HGDL  S+  ++ CV+ ++SF++AFLFSIE Q TIG+G R VT+ECP+A+ +++ Q+IVG +I+A ++G +  K A+  +R ETL+FS +AVIA+R G+LC M RVG+LRKS ++ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H ID +SPLYDL+  D+  + D EI+VILEG+VE T +TTQ R+SYLA+EILWG R+ P++ EE   Y VDYS+F  T +VP TPLC+AR L E   +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>sp|E1BNE9.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 1; Short=GIRK-1; AltName: Full=Inward rectifier K(+) channel Kir3.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3 [Bos taurus]</Hit_def>
+  <Hit_accession>E1BNE9</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.747</Hsp_bit-score>
+      <Hsp_score>896</Hsp_score>
+      <Hsp_evalue>5.20005e-116</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>363</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNI-REQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSE-GTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>KKKRQRFVDKNGRCNVQHGNLGSETSRYLSDLFTTLVDLKWRWNLFIFILTYTVAWLFMASMWWVIAYTRGDLNKAHVGNYTPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCMFIKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQSEQ-FEIVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEE</Hsp_hseq>
+      <Hsp_midline>+++R RFV K G CNV H N+  E  R+L D+FTTLVDLKW   L IF +++  +WL  A  WW+IA+  GDL  +  G   PCV ++++F SAFLF IE + TIG+G R +T++CP  I++ + Q+I+G +++A ++GC+F+K +Q  +RAETL+FS+HAVI++R G+L  M RVG+LR S ++SA I  ++++   +PEGE +PL Q+++ +    G + +FLV+PL I HVIDA SP YDL+   +   Q  EI+VILEG+VETTG+T QARTSY  DE+LWG RF P+++ E+G + VDYS+F  T +VPTP  + ++ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>sp|P48544.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 4; Short=GIRK-4; AltName: Full=Cardiac inward rectifier; Short=CIR; AltName: Full=Heart KATP channel; AltName: Full=Inward rectifier K(+) channel Kir3.4; Short=IRK-4; AltName: Full=KATP-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 5 [Homo sapiens]</Hit_def>
+  <Hit_accession>P48544</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>346.665</Hsp_bit-score>
+      <Hsp_score>888</Hsp_score>
+      <Hsp_evalue>7.06099e-116</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>TRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>TRLLAEGKKPR-------QRYMEKSGKCNVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTVTWLFFGFIWWLIAYIRGDL-DHVGDQEWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIILLLVQAILGSIVNAFMVGCMFVKISQPKKRAETLMFSNNAVISMRDEKLCLMFRVGDLRNSHIVEASIRAKLIKSRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIISHEINQKSPFWEMSQAQL-HQEEFEVVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTPSCCAKELAE</Hsp_hseq>
+      <Hsp_midline>TRL  +  KPR        R++ K G CNV H N++E  R+L D+FTTLVDLKW   LL+FTM +  +WL F   WWLIA+  GDL    G  E  PCV ++  F SAFLFSIE + TIG+G R++TE+CP  I++L+VQ I+G ++NA M+GC+F+K +Q  +RAETL+FS +AVI++R  +LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L H ++ E++VILEG+VE TG+T QAR+SY+  E+LWG RF P++  E G Y VDY+ F +T +  TP C A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>sp|O02670.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 4; Short=GIRK-4; AltName: Full=Cardiac inward rectifier; Short=CIR; AltName: Full=Heart KATP channel; AltName: Full=Inward rectifier K(+) channel Kir3.4; AltName: Full=KATP-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 5 [Sus scrofa]</Hit_def>
+  <Hit_accession>O02670</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>346.665</Hsp_bit-score>
+      <Hsp_score>888</Hsp_score>
+      <Hsp_evalue>7.7021e-116</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>TRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>TRLLAEGKKPR-------QRYMEKSGKCNVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTVTWLFFGFIWWLIAYIRGDLD-HVGDQEWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIVLLLVQAILGSIVNAFMVGCMFVKISQPKKRAETLMFSNHAVISLRDEKLCLMFRVGDLRNSHIVEASIRAKLIKSRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIISHEINEKSPFWEMSRAQL-NQEEFEVVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTPSCCAKELAE</Hsp_hseq>
+      <Hsp_midline>TRL  +  KPR        R++ K G CNV H N++E  R+L D+FTTLVDLKW   LL+FTM +  +WL F   WWLIA+  GDL    G  E  PCV ++  F SAFLFSIE + TIG+G R++TE+CP  I++L+VQ I+G ++NA M+GC+F+K +Q  +RAETL+FS HAVI+LR  +LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L + ++ E++VILEG+VE TG+T QAR+SY+  E+LWG RF P++  E G Y VDY+ F +T +  TP C A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>sp|P48549.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 1; Short=GIRK-1; AltName: Full=Inward rectifier K(+) channel Kir3.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3 [Homo sapiens]</Hit_def>
+  <Hit_accession>P48549</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>349.362</Hsp_bit-score>
+      <Hsp_score>895</Hsp_score>
+      <Hsp_evalue>8.46708e-116</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>363</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNI-REQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSE-GTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>KKKRQRFVDKNGRCNVQHGNLGSETSRYLSDLFTTLVDLKWRWNLFIFILTYTVAWLFMASMWWVIAYTRGDLNKAHVGNYTPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCMFIKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQ-FEIVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEE</Hsp_hseq>
+      <Hsp_midline>+++R RFV K G CNV H N+  E  R+L D+FTTLVDLKW   L IF +++  +WL  A  WW+IA+  GDL  +  G   PCV ++++F SAFLF IE + TIG+G R +T++CP  I++ + Q+I+G +++A ++GC+F+K +Q  +RAETL+FS+HAVI++R G+L  M RVG+LR S ++SA I  ++++   +PEGE +PL Q+++ +    G + +FLV+PL I HVIDA SP YDL+   +   Q  EI+VILEG+VETTG+T QARTSY  DE+LWG RF P+++ E+G + VDYS+F  T +VPTP  + ++ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>sp|P63250.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 1; Short=GIRK-1; AltName: Full=Inward rectifier K(+) channel Kir3.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3 [Mus musculus] &gt;sp|P63251.1| RecName: Full=G protein-activated inward rectifier potassium channel 1; Short=GIRK-1; AltName: Full=Inward rectifier K(+) channel Kir3.1; AltName: Full=KGA; AltName: Full=KGB1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P63250</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.591</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>1.47122e-115</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>363</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNI-REQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSE-GTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>KKKRQRFVDKNGRCNVQHGNLGSETSRYLSDLFTTLVDLKWRWNLFIFILTYTVAWLFMASMWWVIAYTRGDLNKAHVGNYTPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCMFIKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQ-FEVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEE</Hsp_hseq>
+      <Hsp_midline>+++R RFV K G CNV H N+  E  R+L D+FTTLVDLKW   L IF +++  +WL  A  WW+IA+  GDL  +  G   PCV ++++F SAFLF IE + TIG+G R +T++CP  I++ + Q+I+G +++A ++GC+F+K +Q  +RAETL+FS+HAVI++R G+L  M RVG+LR S ++SA I  ++++   +PEGE +PL Q+++ +    G + +FLV+PL I HVIDA SP YDL+   +   Q  E++VILEG+VETTG+T QARTSY  DE+LWG RF P+++ E+G + VDYS+F  T +VPTP  + ++ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>sp|Q90854.1|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 1; Short=GIRK-1; AltName: Full=Inward rectifier K(+) channel Kir3.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3 [Gallus gallus]</Hit_def>
+  <Hit_accession>Q90854</Hit_accession>
+  <Hit_len>492</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.206</Hsp_bit-score>
+      <Hsp_score>892</Hsp_score>
+      <Hsp_evalue>1.96567e-115</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>PRYRARQRRARFVSKKGNCNVAHKNIR-EQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPS-EGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>PRAAPRGKRQRFVDKNGRCNVQHGNLGGETSRYLSDLFTTLVDLKWRWNLFIFVLTYTVAWLFMASMWWVIAYMRGDLNKAHDDSYTPCVANVYNFPSAFLFFIETEATIGYGYRYITDKCPEGIILFLFQSILGSIVDAFLIGCMFIKMSQPKKRAETLMFSEHAAISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRTMQTEQ-FEIVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEE</Hsp_hseq>
+      <Hsp_midline>PR   R +R RFV K G CNV H N+  E  R+L D+FTTLVDLKW   L IF +++  +WL  A  WW+IA+  GDL  + + +  PCV ++++F SAFLF IE + TIG+G R +T++CP  I++ + Q+I+G +++A ++GC+F+K +Q  +RAETL+FS+HA I++R G+L  M RVG+LR S ++SA I  ++++   +PEGE +PL Q+++ +    G + +FLV+PL I HVIDA SP YDL+   +   Q  EI+VILEG+VETTG+T QARTSY  DE+LWG RF P+++ E+G + VDYS+F  T +VPTP  + ++ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>sp|P48548.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 4; Short=GIRK-4; AltName: Full=Cardiac inward rectifier; Short=CIR; AltName: Full=Heart KATP channel; AltName: Full=Inward rectifier K(+) channel Kir3.4; AltName: Full=KATP-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 5 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P48548</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>343.969</Hsp_bit-score>
+      <Hsp_score>881</Hsp_score>
+      <Hsp_evalue>8.4953e-115</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>359</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE---DHSLLEAL</Hsp_qseq>
+      <Hsp_hseq>TRLLPEGKKPR-------QRYMEKTGKCNVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTITWLFFGFIWWLIAYVRGDL-DHVGDQEWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIILLLVQAILGSIVNAFMVGCMFVKISQPKKRAETLMFSNNAVISMRDEKLCLMFRVGDLRNSHIVEASIRAKLIKSRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIISHEINEKSPFWEMSRAQL-EQEEFEVVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTPSCCAKELAEMKRNGQLLQSL</Hsp_hseq>
+      <Hsp_midline>TRL  +  KPR        R++ K G CNV H N++E  R+L D+FTTLVDLKW   LL+FTM +  +WL F   WWLIA+  GDL    G  E  PCV ++  F SAFLFSIE + TIG+G R++TE+CP  I++L+VQ I+G ++NA M+GC+F+K +Q  +RAETL+FS +AVI++R  +LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++ E++VILEG+VE TG+T QAR+SY+  E+LWG RF P++  E G Y VDY+ F +T +  TP C A++L E   +  LL++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>sp|F1NHE9.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 12; AltName: Full=Inward rectifier K(+) channel Kir2.2; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 12 [Gallus gallus]</Hit_def>
+  <Hit_accession>F1NHE9</Hit_accession>
+  <Hit_len>429</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.354</Hsp_bit-score>
+      <Hsp_score>882</Hsp_score>
+      <Hsp_evalue>8.71192e-115</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>356</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>332</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQ-GRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEG--TAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDEDHSLL</Hsp_qseq>
+      <Hsp_hseq>RKCRNRFVKKNGQCNVEFTNMDDKPQRYIADMFTTCVDIRWRYMLLLFSLAFLVSWLLFGLIFWLIALIHGDLENPGGDDTFKPCVLQVNGFVAAFLFSIETQTTIGYGFRCVTEECPLAVFMVVVQSIVGCIIDSFMIGAIMAKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEINEDSPLFGISRQDL-ETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLL</Hsp_hseq>
+      <Hsp_midline>R+ R RFV K G CNV   N+ ++  R++ D+FTT VD++W + LL+F+++FL SWLLF + +WLIA  HGDL    G  T +PCV  ++ F +AFLFSIE Q TIG+G R VTEECPLA+ +++VQ+IVG +I++ M+G I  K A+  +RA+TL+FS +AV+A+R G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q+DI +    G + IFLV+P+ I H I+ +SPL+ ++  DL    D EI+VILEG+VE T +TTQAR+SYLA EILWG RF P++ EE  +Y VDYS F  T +VP TP C+A+ L E+  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>sp|P48545.3|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 4; Short=GIRK-4; AltName: Full=Cardiac inward rectifier; Short=CIR; AltName: Full=Heart KATP channel; AltName: Full=Inward rectifier K(+) channel Kir3.4; AltName: Full=KATP-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 5 [Mus musculus]</Hit_def>
+  <Hit_accession>P48545</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>343.969</Hsp_bit-score>
+      <Hsp_score>881</Hsp_score>
+      <Hsp_evalue>9.46998e-115</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>TRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>TRLLTEGKKPR-------QRYMEKTGKCNVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTITWLFFGFIWWLIAYVRGDL-DHVGDQEWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIILLLVQAILGSIVNAFMVGCMFVKISQPKKRAETLMFSNNAVISMRDEKLCLMFRVGDLRNSHIVEASIRAKLIKSRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIISHEINEKSPFWEMSRAQL-EQEEFEVVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTPSCCAKELAE</Hsp_hseq>
+      <Hsp_midline>TRL  +  KPR        R++ K G CNV H N++E  R+L D+FTTLVDLKW   LL+FTM +  +WL F   WWLIA+  GDL    G  E  PCV ++  F SAFLFSIE + TIG+G R++TE+CP  I++L+VQ I+G ++NA M+GC+F+K +Q  +RAETL+FS +AVI++R  +LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++ E++VILEG+VE TG+T QAR+SY+  E+LWG RF P++  E G Y VDY+ F +T +  TP C A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>sp|F1MYR9.2|</Hit_id>
+  <Hit_def>RecName: Full=G protein-activated inward rectifier potassium channel 4; Short=GIRK-4; AltName: Full=Cardiac inward rectifier; AltName: Full=Heart KATP channel; AltName: Full=Inward rectifier K(+) channel Kir3.4; AltName: Full=KATP-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 5 [Bos taurus]</Hit_def>
+  <Hit_accession>F1MYR9</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>342.813</Hsp_bit-score>
+      <Hsp_score>878</Hsp_score>
+      <Hsp_evalue>2.77533e-114</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>TRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQGRFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVPTPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>TRLLSEGKKPR-------QRYMEKSGKCNVHHGNVQETYRYLSDLFTTLVDLKWRFNLLVFTMVYTITWLFFGFIWWLIAYIRGDL-DHVGDREWIPCVENLSGFVSAFLFSIETETTIGYGFRVITEKCPEGIVLLLVQAILGSIVNAFMVGCMFVKISQPKKRAETLMFSNNAVISLRDEKLCLMFRVGDLRNSHIVEASIRAKLIKSRQTKEGEFIPLNQTDINVGFDTGDDRLFLVSPLIICHEINEKSPFWEMSRAQL-TQEEFEVVVILEGMVEATGMTCQARSSYMDTEVLWGHRFTPVLTLEKGFYEVDYNTFHDTYETNTPSCCAKELAE</Hsp_hseq>
+      <Hsp_midline>TRL  +  KPR        R++ K G CNV H N++E  R+L D+FTTLVDLKW   LL+FTM +  +WL F   WWLIA+  GDL    G  E  PCV ++  F SAFLFSIE + TIG+G R++TE+CP  I++L+VQ I+G ++NA M+GC+F+K +Q  +RAETL+FS +AVI+LR  +LC M RVGDLR S I+ A+I  ++++   + EGE +PL+Q DI +    G + +FLV+PLII H I+  SP ++++ + L   ++ E++VILEG+VE TG+T QAR+SY+  E+LWG RF P++  E G Y VDY+ F +T +  TP C A++L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>sp|P52190.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 4; AltName: Full=BIR11; AltName: Full=Brain inwardly rectifying K(+) channel 2; AltName: Full=Inward rectifier K(+) channel Kir2.3; Short=IRK-3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 4 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P52190</Hit_accession>
+  <Hit_len>446</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.658</Hsp_bit-score>
+      <Hsp_score>875</Hsp_score>
+      <Hsp_evalue>1.34803e-113</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>342</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-----------------EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RKRRNRFVKKNGQCNVYFANLSNKSQRYMADIFTTCVDTRWRYMLMIFSAAFLVSWLFFGLLFWCIAFFHGDLEPSPSGPTAGGPGGNGGGAAPTAAKPCIMHVNGFLGAFLFSVETQTTIGYGFRCVTEECPLAVIAVVVQSIVGCVIDSFMIGTIMAKMPRPKKRAQTLLFSHHAVISVRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPYMTQEGEYLPLDQRDLNVGYDIGLDRIFLVSPIIIVHEIDEDSPLYGMGKEEL-ESEDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVVFEEKSHYKVDYSRFHKTYEVAGTPCCSARELQE</Hsp_hseq>
+      <Hsp_midline>R+RR RFV K G CNV   N+  +  R++ D+FTT VD +W + L+IF+ +FL SWL F + +W IAF HGDL PS                     +PC+  ++ F  AFLFS+E Q TIG+G R VTEECPLA++ ++VQ+IVG +I++ M+G I  K  +  +RA+TL+FS HAVI++R G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q D+ +   +G + IFLV+P+II H ID +SPLY +   +L   +D EI+VILEG+VE T +TTQAR+SYLA EILWG RF P+V EE   Y VDYS+F  T +V  TP C+AR+L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>sp|P48050.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 4; AltName: Full=HIRK2; AltName: Full=HRK1; AltName: Full=Hippocampal inward rectifier; Short=HIR; AltName: Full=Inward rectifier K(+) channel Kir2.3; Short=IRK-3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 4 [Homo sapiens]</Hit_def>
+  <Hit_accession>P48050</Hit_accession>
+  <Hit_len>445</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.273</Hsp_bit-score>
+      <Hsp_score>874</Hsp_score>
+      <Hsp_evalue>2.2968e-113</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>342</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA-----------------EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RKRRNRFVKKNGQCNVYFANLSNKSQRYMADIFTTCVDTRWRYMLMIFSAAFLVSWLFFGLLFWCIAFFHGDLEASPGVPAAGGPAAGGGGAAPVAPKPCIMHVNGFLGAFLFSVETQTTIGYGFRCVTEECPLAVIAVVVQSIVGCVIDSFMIGTIMAKMARPKKRAQTLLFSHHAVISVRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPYMTQEGEYLPLDQRDLNVGYDIGLDRIFLVSPIIIVHEIDEDSPLYGMGKEEL-ESEDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVVFEEKSHYKVDYSRFHKTYEVAGTPCCSARELQE</Hsp_hseq>
+      <Hsp_midline>R+RR RFV K G CNV   N+  +  R++ D+FTT VD +W + L+IF+ +FL SWL F + +W IAF HGDL  S G                   +PC+  ++ F  AFLFS+E Q TIG+G R VTEECPLA++ ++VQ+IVG +I++ M+G I  K A+  +RA+TL+FS HAVI++R G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q D+ +   +G + IFLV+P+II H ID +SPLY +   +L   +D EI+VILEG+VE T +TTQAR+SYLA EILWG RF P+V EE   Y VDYS+F  T +V  TP C+AR+L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>sp|P52189.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 4; AltName: Full=Inward rectifier K(+) channel Kir2.3; Short=IRK-3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 4 [Mus musculus]</Hit_def>
+  <Hit_accession>P52189</Hit_accession>
+  <Hit_len>445</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>340.887</Hsp_bit-score>
+      <Hsp_score>873</Hsp_score>
+      <Hsp_evalue>2.85337e-113</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>354</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>341</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDL----------------APSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RKRRNRFVKKNGQCNVYFANLSNKSQRYMADIFTTCVDTRWRYMLMIFSAAFLVSWLFFGLLFWWIAFFHGDLEASPSVPAVGGPGGNGGESPNAPKPCIMHVNGFLGAFLFSVETQTTIGYGFRCVTEECPLAVIAVVVQSIVGCVIDSFMIGTIMAKMARPKKRAQTLLFSHHAVISVRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPYMTQEGEYLPLDQRDLNVGYDIGLDRIFLVSPIIIVHEIDEDSPLYGMGKEEL-ESEDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVVFEEKSHYKVDYSRFHKTYEVAGTPCCSARELQE</Hsp_hseq>
+      <Hsp_midline>R+RR RFV K G CNV   N+  +  R++ D+FTT VD +W + L+IF+ +FL SWL F + +W IAF HGDL                  S    +PC+  ++ F  AFLFS+E Q TIG+G R VTEECPLA++ ++VQ+IVG +I++ M+G I  K A+  +RA+TL+FS HAVI++R G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q D+ +   +G + IFLV+P+II H ID +SPLY +   +L   +D EI+VILEG+VE T +TTQAR+SYLA EILWG RF P+V EE   Y VDYS+F  T +V  TP C+AR+L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>sp|Q64198.1|</Hit_id>
+  <Hit_def>RecName: Full=Inward rectifier potassium channel 4; AltName: Full=Inward rectifier K(+) channel Kir2.3; Short=IRK-3; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 4 [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>Q64198</Hit_accession>
+  <Hit_len>444</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.732</Hsp_bit-score>
+      <Hsp_score>870</Hsp_score>
+      <Hsp_evalue>9.94805e-113</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>354</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>341</Hsp_align-len>
+      <Hsp_qseq>RQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTA----------------EPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RKRRNRFVKKNGQCNVYFANLSNKSQRYMADIFTTCVDTRWRYMLMLFSAAFLVSWLFFGLLFWCIAFFHGDLEASPSVPAAGAPGGNGGAAPAAPKPCIMHVNGFLGAFLFSVETQTTIGYGFRCVTEECPLAVIAVVVQSIVGCVIDSFMIGTIMAKMARPKKRAQTLLFSHHAVISVRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPYMTQEGEYLPLDQRDLNVGYDIGLDRIFLVSPIIIVHEIDEDSPLYGMGKEEL-ESEDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVVFEEKSHYKVDYSRFHKTYEVAGTPCCSARELQE</Hsp_hseq>
+      <Hsp_midline>R+RR RFV K G CNV   N+  +  R++ D+FTT VD +W + L++F+ +FL SWL F + +W IAF HGDL  S                    +PC+  ++ F  AFLFS+E Q TIG+G R VTEECPLA++ ++VQ+IVG +I++ M+G I  K A+  +RA+TL+FS HAVI++R G+LC M RVG+LRKS I+ A +  Q+++   + EGE +PL Q D+ +   +G + IFLV+P+II H ID +SPLY +   +L   +D EI+VILEG+VE T +TTQAR+SYLA EILWG RF P+V EE   Y VDYS+F  T +V  TP C+AR+L E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>sp|P35560.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 1; AltName: Full=ATP-regulated potassium channel ROM-K; AltName: Full=Inward rectifier K(+) channel Kir1.1; AltName: Full=KAB-1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 1 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>P35560</Hit_accession>
+  <Hit_len>391</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>318.546</Hsp_bit-score>
+      <Hsp_score>815</Hsp_score>
+      <Hsp_evalue>2.68584e-105</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>344</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>RARQRRARFVSKKGNCNVAHKNIREQGRFL--QDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLA----PSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAE-EDGRYSVDYSKFGNTVKVPTPLC</Hsp_qseq>
+      <Hsp_hseq>RSRQR-ARLVSKEGRCNIEFGNVDAQSRFIFFVDIWTTVLDLKWRYKMTVFITAFLGSWFLFGLLWYVVAYVHKDLPEFYPPDNRT--PCVENINGMTSAFLFSLETQVTIGYGFRFVTEQCATAIFLLIFQSILGVIINSFMCGAILAKISRPKKRAKTITFSKNAVISKRGGKLCLLIRVANLRKSLLIGSHIYGKLLKTTITPEGETIILDQTNINFVVDAGNENLFFISPLTIYHIIDHNSPFFHMAAETL-SQQDFELVVFLDGTVESTSATCQVRTSYVPEEVLWGYRFVPIVSKTKEGKYRVDFHNFGKTVEVETPHC</Hsp_hseq>
+      <Hsp_midline>R+RQR AR VSK+G CN+   N+  Q RF+   D++TT++DLKW + + +F  +FL SW LF + W+++A+ H DL     P   T  PCV +I+  +SAFLFS+E QVTIG+G R VTE+C  AI +LI Q+I+G++IN+ M G I  K ++  +RA+T+ FSK+AVI+ R G+LC ++RV +LRKS++I + I+ ++++ T +PEGE + L Q +I      G  ++F ++PL IYH+ID NSP + +A   L   QD E++V L+G VE+T  T Q RTSY+ +E+LWG RFVPIV++ ++G+Y VD+  FG TV+V TP C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>sp|O88335.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 1; AltName: Full=ATP-regulated potassium channel ROM-K; AltName: Full=Inward rectifier K(+) channel Kir1.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 1 [Mus musculus]</Hit_def>
+  <Hit_accession>O88335</Hit_accession>
+  <Hit_len>372</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>318.161</Hsp_bit-score>
+      <Hsp_score>814</Hsp_score>
+      <Hsp_evalue>2.80738e-105</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>344</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>RARQRRARFVSKKGNCNVAHKNIREQGRFL--QDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLA----PSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAE-EDGRYSVDYSKFGNTVKVPTPLC</Hsp_qseq>
+      <Hsp_hseq>RSRQR-ARLVSKDGRCNIEFGNVDAQSRFIFFVDIWTTVLDLKWRYKMTVFITAFLGSWFLFGLLWYVVAYVHKDLPEFYPPDNRT--PCVENINGMTSAFLFSLETQVTIGYGFRFVTEQCATAIFLLIFQSILGVIINSFMCGAILAKISRPKKRAKTITFSKNAVISKRGGKLCLLIRVANLRKSLLIGSHIYGKLLKTTITPEGETIILDQTNINFVVDAGNENLFFISPLTIYHIIDHNSPFFHMAAETL-SQQDFELVVFLDGTVESTSATCQVRTSYIPEEVLWGYRFVPIVSKTKEGKYRVDFHNFGKTVEVETPHC</Hsp_hseq>
+      <Hsp_midline>R+RQR AR VSK G CN+   N+  Q RF+   D++TT++DLKW + + +F  +FL SW LF + W+++A+ H DL     P   T  PCV +I+  +SAFLFS+E QVTIG+G R VTE+C  AI +LI Q+I+G++IN+ M G I  K ++  +RA+T+ FSK+AVI+ R G+LC ++RV +LRKS++I + I+ ++++ T +PEGE + L Q +I      G  ++F ++PL IYH+ID NSP + +A   L   QD E++V L+G VE+T  T Q RTSY+ +E+LWG RFVPIV++ ++G+Y VD+  FG TV+V TP C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>sp|Q9UNX9.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 14; AltName: Full=Inward rectifier K(+) channel Kir2.4; Short=IRK-4; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 14 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q9UNX9</Hit_accession>
+  <Hit_len>436</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>316.235</Hsp_bit-score>
+      <Hsp_score>809</Hsp_score>
+      <Hsp_evalue>1.10021e-103</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>340</Hsp_align-len>
+      <Hsp_qseq>LTRLAEDPAKPRYRARQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>LCRNGWAPAPVQSPVGRRRGRFVKKDGHCNVRFVNLGGQGARYLSDLFTTCVDVRWRWMCLLFSCSFLASWLLFGLAFWLIASLHGDLAAPP-PPAPCFSHVASFLAAFLFALETQTSIGYGVRSVTEECPAAVAAVVLQCIAGCVLDAFVVGAVMAKMAKPKKRNETLVFSENAVVALRDHRLCLMWRVGNLRRSHLVEAHVRAQLLQPRVTPEGEYIPLDHQDVDVGFDGGTDRIFLVSPITIVHEIDSASPLYELGRAEL-ARADFELVVILEGMVEATAMTTQCRSSYLPGELLWGHRFEPVLFQRGSQYEVDYRHFHRTYEVPGTPVCSAKELDE</Hsp_hseq>
+      <Hsp_midline>L R    PA  +    +RR RFV K G+CNV   N+  QG R+L D+FTT VD++W    L+F+ SFL SWLLF +A+WLIA  HGDLA       PC + + SF +AFLF++E Q +IG+G R VTEECP A+  +++Q I G +++A ++G +  K A+  +R ETL+FS++AV+ALR  RLC M RVG+LR+S ++ A +  Q+++   +PEGE +PL   D+ +    G + IFLV+P+ I H ID+ SPLY+L  ++L    D E++VILEG+VE T +TTQ R+SYL  E+LWG RF P++ +   +Y VDY  F  T +VP TP+C+A++LDE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>sp|P48048.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 1; AltName: Full=ATP-regulated potassium channel ROM-K; AltName: Full=Inward rectifier K(+) channel Kir1.1; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>P48048</Hit_accession>
+  <Hit_len>391</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>312.768</Hsp_bit-score>
+      <Hsp_score>800</Hsp_score>
+      <Hsp_evalue>5.34871e-103</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>344</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>147</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>320</Hsp_align-len>
+      <Hsp_qseq>QRRARFVSKKGNCNVAHKNIREQGRFL--QDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAE--PCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAE-EDGRYSVDYSKFGNTVKVPTPLC</Hsp_qseq>
+      <Hsp_hseq>RQRARLVSKDGRCNIEFGNVEAQSRFIFFVDIWTTVLDLKWRYKMTIFITAFLGSWFFFGLLWYAVAYIHKDLPEFHPSANHTPCVENINGLTSAFLFSLETQVTIGYGFRCVTEQCATAIFLLIFQSILGVIINSFMCGAILAKISRPKKRAKTITFSKNAVISKRGGKLCLLIRVANLRKSLLIGSHIYGKLLKTTVTPEGETIILDQININFVVDAGNENLFFISPLTIYHVIDHNSPFFHMAAETL-LQQDFELVVFLDGTVESTSATCQVRTSYVPEEVLWGYRFAPIVSKTKEGKYRVDFHNFSKTVEVETPHC</Hsp_hseq>
+      <Hsp_midline>++RAR VSK G CN+   N+  Q RF+   D++TT++DLKW + + IF  +FL SW  F + W+ +A+ H DL     +A   PCV +I+  +SAFLFS+E QVTIG+G R VTE+C  AI +LI Q+I+G++IN+ M G I  K ++  +RA+T+ FSK+AVI+ R G+LC ++RV +LRKS++I + I+ ++++ T +PEGE + L Q++I      G  ++F ++PL IYHVID NSP + +A   L   QD E++V L+G VE+T  T Q RTSY+ +E+LWG RF PIV++ ++G+Y VD+  F  TV+V TP C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>sp|Q8JZN3.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 14; AltName: Full=Inward rectifier K(+) channel Kir2.4; Short=IRK-4; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 14 [Mus musculus]</Hit_def>
+  <Hit_accession>Q8JZN3</Hit_accession>
+  <Hit_len>434</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>314.309</Hsp_bit-score>
+      <Hsp_score>804</Hsp_score>
+      <Hsp_evalue>6.31373e-103</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>324</Hsp_align-len>
+      <Hsp_qseq>QRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>RRRGRFVKKDGHCNVRFVNLGGQGARYLSDLFTTCVDVRWRWMCLLFSCSFLASWLLFGLTFWLIASLHGDLAAPP-PPAPCFSQVASFLAAFLFALETQTSIGYGVRSVTEECPAAVAAVVLQCIAGCVLDAFVVGAVMAKMAKPKKRNETLVFSENAVVALRDHRLCLMWRVGNLRRSHLVEAHVRAQLLQPRVTPEGEYIPLDHQDVDVGFDGGTDRIFLVSPITIVHEIDSASPLYELGRAEL-ARADFELVVILEGMVEATAMTTQCRSSYLPGELLWGHRFEPVLFQRGSQYEVDYRHFHRTYEVPGTPVCSAKELDE</Hsp_hseq>
+      <Hsp_midline>+RR RFV K G+CNV   N+  QG R+L D+FTT VD++W    L+F+ SFL SWLLF + +WLIA  HGDLA       PC + + SF +AFLF++E Q +IG+G R VTEECP A+  +++Q I G +++A ++G +  K A+  +R ETL+FS++AV+ALR  RLC M RVG+LR+S ++ A +  Q+++   +PEGE +PL   D+ +    G + IFLV+P+ I H ID+ SPLY+L  ++L    D E++VILEG+VE T +TTQ R+SYL  E+LWG RF P++ +   +Y VDY  F  T +VP TP+C+A++LDE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>sp|O70596.1|</Hit_id>
+  <Hit_def>RecName: Full=ATP-sensitive inward rectifier potassium channel 14; AltName: Full=Inward rectifier K(+) channel Kir2.4; Short=IRK-4; AltName: Full=Potassium channel, inwardly rectifying subfamily J member 14 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>O70596</Hit_accession>
+  <Hit_len>434</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.923</Hsp_bit-score>
+      <Hsp_score>803</Hsp_score>
+      <Hsp_evalue>7.50808e-103</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>326</Hsp_align-len>
+      <Hsp_qseq>ARQRRARFVSKKGNCNVAHKNIREQG-RFLQDVFTTLVDLKWPHTLLIFTMSFLCSWLLFAMAWWLIAFAHGDLAPSEGTAEPCVTSIHSFSSAFLFSIEVQVTIGFGGRMVTEECPLAILILIVQNIVGLMINAIMLGCIFMKTAQAHRRAETLIFSKHAVIALRHGRLCFMLRVGDLRKSMIISATIHMQVVRKTTSPEGEVVPLHQVDIPMENGVGGNSIFLVAPLIIYHVIDANSPLYDLAPSDLHHHQDLEIIVILEGVVETTGITTQARTSYLADEILWGQRFVPIVAEEDGRYSVDYSKFGNTVKVP-TPLCTARQLDE</Hsp_qseq>
+      <Hsp_hseq>GNRRRGRFVKKDGHCNVRFVNLGGQGARYLSDLFTTCVDVRWRWMCLLFSCSFLASWLLFGLTFWLIASLHGDLAAPP-PPAPCFSQVASFLAAFLFALETQTSIGYGVRSVTEECPAAVAAVVLQCIAGCVLDAFVVGAVMAKMAKPKKRNETLVFSENAVVALRDRRLCLMWRVGNLRRSHLVEAHVRAQLLQPRVTPEGEYIPLDHQDVDVGFDGGTDRIFLVSPITIVHEIDSASPLYELGRAEL-ARADFELVVILEGMVEATAMTTQCRSSYLPGELLWGHRFEPVLFQRGSQYEVDYRHFHRTYEVPGTPVCSAKELDE</Hsp_hseq>
+      <Hsp_midline>  +RR RFV K G+CNV   N+  QG R+L D+FTT VD++W    L+F+ SFL SWLLF + +WLIA  HGDLA       PC + + SF +AFLF++E Q +IG+G R VTEECP A+  +++Q I G +++A ++G +  K A+  +R ETL+FS++AV+ALR  RLC M RVG+LR+S ++ A +  Q+++   +PEGE +PL   D+ +    G + IFLV+P+ I H ID+ SPLY+L  ++L    D E++VILEG+VE T +TTQ R+SYL  E+LWG RF P++ +   +Y VDY  F  T +VP TP+C+A++LDE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>480709</Statistics_db-num>
+      <Statistics_db-len>182554224</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
