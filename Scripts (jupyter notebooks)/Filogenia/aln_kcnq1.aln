@@ -1,0 +1,194 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Bos_taurus                 MGLKARRP------AGAAGGGGDGGGGGG-GAANPAGGDAAAAGDEERKVGLAPGDVEQV	53
+Squalus_acanthias          ------MSSEVKSRWS--GS---GSQKSG-TARKPTMLEMAE--NAASR------HYEPV	40
+Xenopus_laevis             -------MSSEQPAWTFGLFTPDQNKQAPL--------EMNE--NAINS------LYEAI	37
+Oryctolagus_cuniculus      MAAASTPPRAERKRXSWSRLPGAQRESAGLAKKCPFSLELAESGPPSSA------LYAPV	54
+Sus_scrofa                 MAAATSPPRAERKRWGGGRLPGARRGSAGLAKKCPFSLELAEGGPTGGA------LYAPI	54
+Felis_catus                ------------------------------------------------------------	0
+Rattus_norvegicus          MDTASSPPNAERKRAGWGRLLGARRGSAGLAKKCPFSLELAEGGPTGGT------VYAPI	54
+Mus_musculus               MDTASSPPSAERKRAGWSRLLGARRGSA-VVKKCPFSLELAEGGPEGST------VYAPI	53
+Homo_sapiens               MAAASSPPRAERKRWGWGRLPGARRGSAGLAKKCPFSLELAEGGPAGGA------LYAPI	54
+Cavia_porcellus            MAAASSPPRTERKRGGWGRLLGSRRGSASLAKKCPFSLELAEGGPAGGT------LYAPV	54
+                                                                                       
+
+Bos_taurus                 TLALGAGADKDGTLLLEGGGRDEGQRRTPQGIGLLAK------TPLSR-PVKRNNAKYRR	106
+Squalus_acanthias          PLPLQRSNSPDSSTDKNPESRAADSRAE--VIINPDIPPKAIALPLSRYRGRNPFFSKVN	98
+Xenopus_laevis             PLPQDGSS--NGQRQEDRQANSFELKRETLVATDPPRPTINLDPRVSIYSGRRPLLSRTN	95
+Oryctolagus_cuniculus      SPPSAPEP--------APPASPASPAPP--AADQGPQPPVSLDPRVSIYSVRRPLLARTH	104
+Sus_scrofa                 GPPGVPGP--------SSPAA---PAASPAAADLGPRPRVSLDPRVSIYSARRPLLARTH	103
+Felis_catus                --------------------------------------------RVSIYSARRPLLARTH	16
+Rattus_norvegicus          APTGAPGL--------APPMSPPVSP-VPAPADLGPRPRVSLDPRVSIYSTRRPLLARTH	105
+Mus_musculus               APTGAPGL--------APPMSTPVSP-APAPADLGPRPRVSLDPRVSIYSARRPLLARTH	104
+Homo_sapiens               AP-GAPGP--------APPASPAAPAAPPVASDLGPRPPVSLDPRVSIYSTRRPVLARTH	105
+Cavia_porcellus            APPGALSP--------GSPAPPASPAAPPAGLELGPRPPVSLDPRVSIYSARRPLLARTH	106
+                                                                        :*    :.      .
+
+Bos_taurus                 IQTLIYDALERPRGWA-LLYHALVFLIVLGCLILAVLTTFREYETVSGDWLLLLETFAIF	165
+Squalus_acanthias          IQGRTYNFLERPTGWKCFIYHFTVFLIVLVCLIFSVMSTIEQYHYFANRALVWMEIVLVV	158
+Xenopus_laevis             IQGRVYNFLERPTGWKCFVYHFTVFLIVLICLIFSVLSTIQQYNNLATETLFWMEIVLVV	155
+Oryctolagus_cuniculus      IQGRVYNFLERPTGWKCFAYHFTVFLIVLVCLIFSVLSTIEQYATLATGTLFWMEIVLVV	164
+Sus_scrofa                 IQGRVYNFLERPTGWKCFVYHFAVFLIVLVCLIFSVLSTIEQYVALATGTLFWMEIVLVV	163
+Felis_catus                IQGRVYNFLERPTGWKCFVYHFAVFLIVLVCLIFSVLSTIEQYVALATGTLFWMEIVLVV	76
+Rattus_norvegicus          IQGRVYNFLERPTGWKCFVYHFTVFLIVLVCLIFSVLSTIEQYAALATGTLFWMEIVLVV	165
+Mus_musculus               IQGRVYNFLERPTGWKCFVYHFTVFLIVLVCLIFSVLSTIEQYAALATGTLFWMEIVLVV	164
+Homo_sapiens               VQGRVYNFLERPTGWKCFVYHFAVFLIVLVCLIFSVLSTIEQYAALATGTLFWMEIVLVV	165
+Cavia_porcellus            IQGRVYNFLERPTGWKCFVYHFAVFLIVLACLIFSVLSTIEQYAALATGTLFWMEIVLVV	166
+                           :*   *: **** **  : **  ****** ***::*::*:.:*  .:   *. :* . :.
+
+Bos_taurus                 IFGAEFALRIWAAGCCCRYKGWRGRLKFARKPLCMLDIFVLIASVPVVAVGNQGNVLATS	225
+Squalus_acanthias          FFGTEYIVRLWSAGCRSKYVGFWGRLRFARKPISIIDLIVVVASVIVLCVGSNGQVFATS	218
+Xenopus_laevis             FFGAEYVVRLWSAGCRSKYVGVWGRLRFARKPISVIDLIVVVASVIVLCVGSNGQVFATS	215
+Oryctolagus_cuniculus      FFGTEYVVRLWSAGCRSKYVGLWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	224
+Sus_scrofa                 FFGTEYAVRLWSAGCRSKYVGIWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	223
+Felis_catus                FFGTEYVVRLWSAGCRSKYVGVWGRLRFARKPISIIDLIVVLASMVVLCVGSKGQVFATS	136
+Rattus_norvegicus          FFGTEYVVRLWSAGCRSKYVGIWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	225
+Mus_musculus               FFGTEYVVRLWSAGCRSKYVGIWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	224
+Homo_sapiens               FFGTEYVVRLWSAGCRSKYVGLWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	225
+Cavia_porcellus            FFGTEYVVRLWSAGCRSKYVGIWGRLRFARKPISIIDLIVVVASMVVLCVGSKGQVFATS	226
+                           :**:*: :*:*:*** .:* *  ***:*****:.::*::*::**: *:.**.:*:*:***
+
+Bos_taurus                 -LRSLRFLQILRMLRMDRRGGTWKLLGSAICAHSKELITAWYIGFLTLILSSFLVYLVEK	284
+Squalus_acanthias          AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	278
+Xenopus_laevis             AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	275
+Oryctolagus_cuniculus      AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	284
+Sus_scrofa                 AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	283
+Felis_catus                AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	196
+Rattus_norvegicus          AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	285
+Mus_musculus               AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	284
+Homo_sapiens               AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	285
+Cavia_porcellus            AIRGIRFLQILRMLHVDRQGGTWRLLGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEK	286
+                            :*.:*********::**:****:****.:  * :****: ***** **:**::***.**
+
+Bos_taurus                 DVPEVDAQGEEMKEEFETYADALWWGLITLATIGYGDKTPKTWEGRLIAATFSLIGVSFF	344
+Squalus_acanthias          DAV-----DDSGSQQFGSYADALWWGVVTVTTIGYGDKVPQTWIGRTIASCFSVFAISFF	333
+Xenopus_laevis             DAI-----DSSGEYQFGSYADALWWGVVTVTTIGYGDKVPQTWIGKTIASCFSVFAISFF	330
+Oryctolagus_cuniculus      DAV-----NESGRVEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	339
+Sus_scrofa                 DAV-----NESGQVEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	338
+Felis_catus                DAV-----NESGQVEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	251
+Rattus_norvegicus          DAV-----NESGRIEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	340
+Mus_musculus               DAV-----NESGRIEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	339
+Homo_sapiens               DAV-----NESGRVEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	340
+Cavia_porcellus            DAV-----NESGRVEFGSYADALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFF	341
+                           *.      ...   :* :********::*::*******.*:** *: **: **::.:***
+
+Bos_taurus                 ALPAGILGSGLALKVQEQHRQKHFEKRRKPAAELIQAAWRYYATNPNRIDLVATWRFYES	404
+Squalus_acanthias          ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTSWRCHAAENH---ESATWKMYVR	390
+Xenopus_laevis             ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSATWKIYIR	387
+Oryctolagus_cuniculus      ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSATWKIYIR	396
+Sus_scrofa                 ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSSTWKIYVR	395
+Felis_catus                ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---ESSTWNIYVR	308
+Rattus_norvegicus          ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSSTWKIYVR	397
+Mus_musculus               ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSATWKIYVR	396
+Homo_sapiens               ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSSTWKIYIR	397
+Cavia_porcellus            ALPAGILGSGFALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENP---DSSTWKIYVR	398
+                           **********:*****:::*****:::   **.***::** :*::       :**.:*  
+
+Bos_taurus                 VVSFPFFRKEQLDPAASQK---LGLLDRVRLSNPRGSNTKGKLFTPLNVDAIEESPSK--	459
+Squalus_acanthias          QPTK-FYV---ASPSPKTKKSV-GKRKKLKTDKDNGLN-SEKSLNV---PNITYDHVVDK	441
+Xenopus_laevis             KQSRNHHL---MSPSPKPKKSAMVKKKKIRTERDEGS--TDKMLNI---PHITYDHVA--	437
+Oryctolagus_cuniculus      KPTRGHAL---LSPSPKPKKSAMVKKKKFKLDKDNGVSPGEKTLPV---PQITCEPP---	447
+Sus_scrofa                 KPSRSQAL---LSPSPKPKKSVMVKKKKFKLDKDNGLSPGEKMLAV---PQITCDLAS--	447
+Felis_catus                KPTRSHTL---LSPSPKPKKSVMVKKKKFKLDKDNGVSPGEKTLTV---PHITCEPVS--	360
+Rattus_norvegicus          KPARSHTL---LSPSPKPKKSVMVKKKKFKLDKDNGLSPGEKIFNV---PHITCDPP---	448
+Mus_musculus               KPARSHTL---LSPSPKPKKSVMVKKKKFKLDKDNGMSPGEKMFNV---PHITYDPP---	447
+Homo_sapiens               KAPRSHTL---LSPSPKPKKSVVVKKKKFKLDKDNGVTPGEKMLTV---PHITCDPP---	448
+Cavia_porcellus            KPARSHTL---LSPSPKPKKSAMVRKKKFKPDKDNGVSPGEKMLTV---PHITCDPP---	449
+                                       .*: . *       .:.: .. .*     * :       *  .     
+
+Bos_taurus                 EPKPVGSNNKERFRTAFRMKAYAFWQSSE-DAGTGDPTAEDRGY--GN-----DFLIEDM	511
+Squalus_acanthias          DDRKFENSNIDGYDSSVKK-SLGILDVNSGALSRANSYADDLDFIEGEPVLAPITHVSQL	500
+Xenopus_laevis             DDRKNDGYSVESYENTVRK-PFGFLDPSTGPFIRTSSFTDDLDM-EGDTLLTPITHISEL	495
+Oryctolagus_cuniculus      EERRPDHFPVDSHDGSVRK-SPALLEVSTPQFLRTNSFAEDLDL-EGETLLAPITHVSQL	505
+Sus_scrofa                 EEQRPDHFSVDGCDNSVKK-SPTLLEVSTAQFTRTNSFAEDLDL-EGETLLTPITHVSQL	505
+Felis_catus                EKRRPDHFSVDTCDSSV-K-SPMLLEVSTTHFLRTNSVAEDLDL-EGETPLVPITHVSQL	417
+Rattus_norvegicus          EDRRPDHFSIDGYDSSVRK-SPTLLEVSTPHFLRTNSFAEDLDL-EGETLLTPITHVSQL	506
+Mus_musculus               EDRRPDHFSIDGYDSSVRK-SPTLLEVSTPHFLRTNSFAEDLDL-EGETLLTPITHVSQL	505
+Homo_sapiens               EERRLDHFSVDGYDSSVRK-SPTLLEVSMPHFMRTNSFAEDLDL-EGETLLTPITHISQL	506
+Cavia_porcellus            EERRPDHFSVDGYDSSVRK-SPTLLEVSPTHFMRTNSFAEDLDL-EGETLLTPITHVSQL	507
+                           : :       :    :.      : : .       .  ::* .   *:        :.::
+
+Bos_taurus                 IPTLKAAIRAVRILQFRLYKKKFKETLRPYDVKDVIEQYSAGHLDMLSRIKYLQTRIDMI	571
+Squalus_acanthias          RESHRVTVKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	560
+Xenopus_laevis             KEHHRAAIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	555
+Oryctolagus_cuniculus      REHHRATVKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	565
+Sus_scrofa                 REHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	565
+Felis_catus                REHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	477
+Rattus_norvegicus          RDHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	566
+Mus_musculus               RDHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	565
+Homo_sapiens               REHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	566
+Cavia_porcellus            REHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQS	567
+                               :.:::.:* :*: : ****::: :****:******* ***::: *** ** *:*  
+
+Bos_taurus                 FTPGPPSTPKHKKSQRGAAFTYPSQQSPRNEPYVARPSTSETEDQSMMGKFVKVERQVHD	631
+Squalus_acanthias          LGKPTMFLSVSEKSQ-------------------------DRGKNTIGARLNRVEEKFVH	595
+Xenopus_laevis             LGKPSLFLSVSDKVK-------------------------DKGINTIGSRLNRVEDKVTQ	590
+Oryctolagus_cuniculus      IGKPSLFVPISEKSK-------------------------DRGSNSIGARLNRVEDKVTQ	600
+Sus_scrofa                 IGRPALFISSSEKVK-------------------------DRGSNTIGARLNRVEDKVTQ	600
+Felis_catus                IGKPSLFISVSEKSK-------------------------DRGSNTIGARLNRVEDKVAQ	512
+Rattus_norvegicus          IGKPSLFIPISEKSK-------------------------DRGSNTIGARLNRVEDKVTQ	601
+Mus_musculus               IGKPSLFIPISEKSK-------------------------DRGSNTIGARLNRVEDKVTQ	600
+Homo_sapiens               IGKPSLFISVSEKSK-------------------------DRGSNTIGARLNRVEDKVTQ	601
+Cavia_porcellus            IGKPSLFIPISEKSK-------------------------DRGSNTIGARLNRVEDKVTQ	602
+                           :          .* :                         :   ::: .:: :** :. .
+
+Bos_taurus                 MGKKLDFLVDMHLQHMERLQVHVAGFSPSKGASSPAEAEQKEDRRDADLKTIICNYSETG	691
+Squalus_acanthias          MDQKLNTITDMLHHLVAHQQGHPHPQT------QPQAQGT-------V------------	630
+Xenopus_laevis             MDHKLNLITDMLHHLLTNQQGSQSIRT-------P-------------------HRSNSL	624
+Oryctolagus_cuniculus      LDQRLVLIADMLQQLLALHQGRCHGGA------HPAQA----------------RDGDPA	638
+Sus_scrofa                 LDQRLELITDMLQQLLSLHRGGTPGSR------APG-GGG-------AQVAQPC-SGGSI	645
+Felis_catus                LDQRLVLITDMLQQLLSLHHGGPPGSR------PPS-GGG-------AQVQ-PC---GPT	554
+Rattus_norvegicus          LDQRLVIITDMLHQLLSLQQGG------------PTCNNR--------SQVVASDERGSI	641
+Mus_musculus               LDQRLVIITDMLHQLLSMQQGG------------PTCNSR--------SQVVASNEGGSI	640
+Homo_sapiens               LDQRLALITDMLHQLLSLHGGSTPGSG------GPPREGG-------AHITQPCGSGGSV	648
+Cavia_porcellus            LDQRLVVITDMLHQLLSLHQG------------GPHSGGG-------PQMVQPCSEDGSI	643
+                           :.::*  :.**  : :                  *                         
+
+Bos_taurus                 APDAP------YSFHQVPVDKVGPYGFFAHDPVNLPLGGPSSGKGHATPYAERPTVLPIL	745
+Squalus_acanthias          VQAVASTHSSLPSYEQLTV----------------RRKDQDNQPDL--------------	660
+Xenopus_laevis             NSENHPSRNTLPTYEQLNV----------------PRMTQDNIS----------------	652
+Oryctolagus_cuniculus      DPELFL-----PTYEQLTV----------------PRRDPEEGS----------------	661
+Sus_scrofa                 NPELFLPSNALPTYEQLTV----------------PGRGPEEGS----------------	673
+Felis_catus                NPELFLPGNALPTYEQLTV----------------PRRGPEEGS----------------	582
+Rattus_norvegicus          NPELFLPSNSLPTYEQLTV----------------PQTGPDEGS----------------	669
+Mus_musculus               NPELFLPSNSLPTYEQLTV----------------PQTGPDEGS----------------	668
+Homo_sapiens               DPELFLPSNTLPTYEQLTV----------------PRRGPDEGS----------------	676
+Cavia_porcellus            HPELFLPSNSLPTYEQLTV----------------PQRGPDEAS----------------	671
+                                       ::.*: *                     ..                  
+
+Bos_taurus                 TLLDSRGSYRSQVELHGPCSDRVSPRQRRSITRDSDTPLSLMSVNHEELERSPSGFSISQ	805
+Squalus_acanthias          ------------------------------------------------------------	660
+Xenopus_laevis             ------------------------------------------------------------	652
+Oryctolagus_cuniculus      ------------------------------------------------------------	661
+Sus_scrofa                 ------------------------------------------------------------	673
+Felis_catus                ------------------------------------------------------------	582
+Rattus_norvegicus          ------------------------------------------------------------	669
+Mus_musculus               ------------------------------------------------------------	668
+Homo_sapiens               ------------------------------------------------------------	676
+Cavia_porcellus            ------------------------------------------------------------	671
+                                                                                       
+
+Bos_taurus                 DRDDYAFGPSGGSSWMREKRYLAEGETDTDTEPFTPSGSLPLSSTGDGISDSIWTPSGKP	865
+Squalus_acanthias          ------------------------------------------------------------	660
+Xenopus_laevis             ------------------------------------------------------------	652
+Oryctolagus_cuniculus      ------------------------------------------------------------	661
+Sus_scrofa                 ------------------------------------------------------------	673
+Felis_catus                ------------------------------------------------------------	582
+Rattus_norvegicus          ------------------------------------------------------------	669
+Mus_musculus               ------------------------------------------------------------	668
+Homo_sapiens               ------------------------------------------------------------	676
+Cavia_porcellus            ------------------------------------------------------------	671
+                                                                                       
+
+Bos_taurus                 T	866
+Squalus_acanthias          -	660
+Xenopus_laevis             -	652
+Oryctolagus_cuniculus      -	661
+Sus_scrofa                 -	673
+Felis_catus                -	582
+Rattus_norvegicus          -	669
+Mus_musculus               -	668
+Homo_sapiens               -	676
+Cavia_porcellus            -	671
+                            
